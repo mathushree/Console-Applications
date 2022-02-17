@@ -19,7 +19,7 @@ public class Splitwise_1{
         l1.add("Mathu");
         l1.add("Mahi");
         l1.add("Dhoni");
-        l2.add("10");
+        l2.add("mathu123");
         l4.add("1");
         l4.add("2");
         l4.add("3");
